@@ -399,7 +399,7 @@
 								<i class="fa fa-envelope-o" aria-hidden="true"></i>
 								<div>
 									<h6 class="title color-white">Have any questions?</h6>
-									<p>info@transformationfitnessworld.com</p>
+									<p><a href="mailto:info@transformationfitnessworld.com">info@transformationfitnessworld.com</a></p>
 								</div>
 							</li>
 							
