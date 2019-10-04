@@ -1,0 +1,435 @@
+@media (max-width:1366px){
+	.background-1{
+		background-position: left 5% bottom
+	}
+}
+	
+/* Medium devices (desktops, 992px and up) */
+@media (max-width:1199px){
+	.navbar-nav li a{
+		padding: 30px 12px
+	}
+	.carousel-caption .thumb-title{
+		margin-bottom: 8px;
+		font-size: 30px
+	}
+	.carousel-caption .text-area{
+		margin: 10px 0
+	}
+	.signup_form_trial {
+	  top: 55%;
+	  width:28%;
+	}
+	.signup_trial_title img {
+	  display:none;
+	}
+	.signup_form input[type="text"], .signup_form textarea {
+	  padding: 0 15px;
+	}
+	.signup_form textarea {
+	  padding: 8px 15px;
+	}
+	.signup_form input[type="text"] {
+	  line-height: 40px;
+	}
+	.signup_form li, .send_meaasge_form li {
+	  margin-bottom: 10px;
+	}
+	#map img {
+	  height: 550px;
+	}
+	.send_meaasge_form textarea {
+	  height: 100px;
+	}
+	.send_meaasge {
+	  height: 550px;
+	}
+	/*slider*/
+	#slider::before {
+	  transform: skew(0deg, 8deg);
+	}
+	#slider::after {
+	  transform: skew(0deg, -8deg);
+	}
+	.class_item_hover tr td{
+		font-size: 12px
+	}
+	.trainer_item:hover .trainer_item_hover{
+		padding: 40px 20px
+	}
+	.social_media.trainer_social_media {
+		display: none
+	}
+	.trainer_item_hover p {
+		margin: 25px 0;
+	}
+	.newsletter_form input{
+		width: 55%
+	}
+	.popular_program_items {
+		margin-top: 110px
+	}
+	.popular_program_for {
+		top: 120px
+	}
+	.popular_program_items {
+		padding: 100px 0 100px
+	}
+	.program_item_info {
+		width: 411px
+	}
+	.trainer_item {
+		padding-bottom: 60px;
+	}
+	.trainer_item_hover {
+		top: 200px
+	}
+	.trainer_item_hover::after {
+		display: none
+	}
+	#page_banner {
+		padding: 160px 0 50px
+	}
+	.background-1{
+		background-position: left -25% bottom
+	}
+	.background-6 {
+		background-position: right -50% top
+	}
+	.timing li span {
+		font-size: 14px;
+		font-weight: 400
+	}
+}
+/* Small devices (tablets, 768px and up) */
+@media (max-width:991px){
+	.all-footer-widgets > div:nth-child(odd){
+		clear: both
+	}
+	.trainer_item_hover {
+		top: 280px
+	}
+	.social_media.trainer_social_media {
+		display: inline-block
+	}
+	.trainer_item:hover .trainer_item_hover {
+		padding: 60px 20px
+	}
+	.vacancy a, .no_vacancy {
+		display: table;
+		padding: 0 15px
+	}
+	.trainer_item {
+		padding-bottom: 0
+	}
+	.per_program_item:nth-child(2n+1) .about_program_item {
+		float: right
+	}
+	.per_program_item:nth-child(2n) .about_program_item {
+		float: left
+	}
+	.about_program_item {
+		width: auto
+	}
+	.company_info {
+		padding: 60px 30px 40px 30px
+	}
+	.free-signup, .video-popup, .company_video {
+		display: none
+	}
+	.background-1, .background-6, .background-9 {
+		background: none
+	}
+	.per_program_item .hexagon, 
+	.per_program_item:first-child .about_program_item::before,
+	.per_program_item::after, .program_item_info::after{
+		display: none
+	}
+	.img-responsive, .thumbnail > img, 
+	.thumbnail a > img, 
+	.carousel-inner > .item > img, 
+	.carousel-inner > .item > a > img {
+		display: block;
+		max-width: inherit;
+		width: auto;
+		height: 600px;
+	}
+	.navbar-nav li a{
+		padding: 30px 9px
+	}
+	.navbar-nav li .hvr-src a{
+		padding: 22px 9px
+	}
+	.signup_form_trial{
+		display: none
+	}
+	.signup_form_trial2 .signup_form_trial{
+		transform: none;
+		display: block;
+		position:inherit
+	}
+	.popular_programs .section_title{
+		position: relative
+	}
+	.popular_program_for {
+		position: relative;
+		display: table;
+		margin: 0 auto;
+		top: 30px;
+		left: auto;
+		transform: none !important
+	}
+	.popular_program_for .thumb-title {
+		margin-right: 15px;
+		width: auto
+	}
+	.popular_program_items{
+		padding: 50px 0 0 0;
+		margin: 0
+	}
+	.program_item_info{
+		width: auto
+	}
+	.newsletter {
+		padding: 20px;
+		text-align: center
+	}
+	.newsletter_form input {
+		width: 75%;
+		float: none;
+		margin: 15px 0
+	}
+	.contact_item {
+		display: inline-flex;
+		margin-bottom: 15px;
+	}
+	.footer.color-gray{
+		padding-top:0
+	}
+	#newsletter {
+		position: inherit;
+		top: -35px
+	}
+	.event_sidebar {
+		margin-top: 50px
+	}
+	.page-error {
+		font-size: 50px
+	}
+	.not_found {
+		font-size: 30px
+	}
+	.shedule_table {
+		width: 100%;
+		overflow-y: scroll
+	}
+	.navbar-nav li:nth-last-child(-n+2) .dropdown-menu{
+		left: auto;
+		right: 0
+	}
+	.post_info li, .post_status li {
+		margin-right: 8px
+	}
+	.blog_right_sidebar {
+		margin-bottom: 50px
+	}
+	.single_product_img {
+		margin-bottom: 30px
+	}
+	.class_pricing tr td:last-child {
+		padding-left: 5px;
+	}
+	.box_title {
+		width: 85%
+	}
+}
+/* Extra small devices (phones, less than 768px) */
+@media (max-width:767px) {
+	.box_title {
+		width: 100%
+	}
+	.product_tab_menu .tab-content {
+		margin-left: 0;
+		margin-top: 20px;
+	}
+	.product_tab_menu .nav-tabs {
+		position: static
+	}
+	.product_tab_menu > ul > li {
+		float: left;
+		display: inherit;
+		padding: 0;
+		width: 33.33%
+	}
+	.product_tab_menu .nav-tabs > li.active > a,
+	.product_tab_menu .nav-tabs li a {
+		width: 100%;
+		padding: 0 15px
+	}
+	section#slider {
+		margin-bottom: -30px;
+	}
+	#header_bottom.fixed-header {
+		display: none
+	}
+	.header {
+		position: static
+	}
+	.dropdown-menu {
+		display: none;
+		position: static;
+		background: transparent !important;
+		width: 100%;
+		float: none;
+	}
+	.page_link ul, .page_banner_title {
+		height: auto
+	}
+	.single_event_schdule .time span {
+		font-weight: 500;
+		display: inline-block;
+	}
+	.newsletter_form input {
+		width: 100%
+	}
+	.trainer_profile_img {
+		margin-bottom: 30px
+	}
+	.single_event_schdule .shedule_info {
+		width: 100%
+	}
+	#page_banner {
+		padding: 50px 0;
+	}
+	.newsletter_info .thumb-title {
+		font-size: 21px;
+		margin-top: 10px;
+	}
+	.trainer_item {
+		height: 365px
+	}
+	.flex-box {
+		display: inherit;
+	}
+	#header_bottom{
+		background: #000
+	}
+	.navbar-default .navbar-nav li a,
+	.navbar-default .navbar-nav li .hvr-src a{
+		padding: 10px 15px
+	}
+	.navbar-default .navbar-nav li > ul.dropdown-menu{
+		padding-top: 0;
+		padding-bottom: 0
+	}
+	.navbar-nav {
+		margin: 7.5px 0;
+	}
+	.navbar-brand{
+		height: auto;
+		padding: 10px 0px;
+		width: 100px
+	}
+	.carousel-caption {
+		top: 40%;
+		transform: translateY(-50%);
+		-ms-transform: translateY(-50%);
+		-o-transform: translateY(-50%);
+		-webkit-transform: translateY(-50%)
+	}
+	.slider_caption,
+	.slider .carousel-caption p {
+		width: 100%;
+		text-align: center
+	}
+	.carousel-inner > .item > img {
+		display: block;
+		height: 580px;
+		max-width: inherit;
+		width: auto
+	}
+	.slider_info h1{
+		font-size: 26px
+	}
+	.header_top{
+		display: none
+	}
+	.btn_double .btn-secondary{
+		display: none
+	}
+	.btn_double .btn-primary{
+		float: none;
+		margin: 0
+	}
+	.slider_caption .thumb-title::after{
+		left: 50%;
+		transform: translateX(-50%);
+		-webkit-transform: translateX(-50%);
+		-ms-transform: translateX(-50%);
+		-o-transform: translateX(-50%)
+	}
+	.carousel-indicators{
+		bottom: 75px
+	}
+	.section_title p {
+		width: 100%
+	}
+	.page_link, .page_banner_title {
+		display: table;
+		font-size: 30px;
+		margin: auto;
+		float: none !important
+	}
+	.everything_possible .title {
+		line-height: 40px
+	}
+	.per_program_item:nth-child(2n) .program_item_info,
+	.per_program_item:nth-child(2n+1) .program_item_info{
+		float: none;
+		text-align: inherit
+	}
+	#popular_programs2 .program_item_info{
+		width: 100%
+	}
+	#popular_programs2 .per_program_item:nth-child(2n) .program_item_info::before,
+	#popular_programs2 .per_program_item:nth-child(2n+1) .program_item_info::before{
+		display: none
+	}
+	.shedule_table, .cart_form_main {
+		overflow-x: scroll;
+	}
+	.cupon .btn-primary, .cupon input {
+		float: none !important;
+		margin: 10px auto;
+		display: table;
+	}
+	.toggle_area {
+		width: 300px;
+		margin: 0 auto;
+	}
+	#slider2 .carousel-indicators {
+		left: 50%;
+		top: inherit;
+		transform: translateX(-50%);
+		-ms-transform: translateX(-50%);
+		-o-transform: translateX(-50%);
+		-webkit-transform: translateX(-50%)
+	}
+	#slider2 .carousel-indicators li {
+		margin-bottom: 0;
+		display: inline-block
+	}
+}
+@media (max-width:500px) {
+.popular_program_for {
+	top: 10px
+}
+/*
+@media screen and (max-width:767) and (landscape){
+	
+.gallery .col-sm-6{
+	width:50% !important;
+}	
+}
+*/
+
