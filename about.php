@@ -9,7 +9,7 @@
 	<meta name="description" content="Transformation Fitness Center">
 	<meta name="keywords" content="aerobic, athletics, body building, boxing, crossfit, danceing, Fitlab, fitness, fitness center, gym, health, sports, yoga in Kolkata, Gym in Kolkata, Fitness center Kolkata">
 	<meta name="author" content="Transformation">
-	<title>About US | Transformation Fitness World</title>
+	<title>About Us</title>
 
 	<!-- Favicon -->
 	<link rel="shortcut icon" type="image/x-icon" href="images/1518438091.ico">
@@ -29,18 +29,7 @@
 	
 </head>
 	
-	
-<body class="page-wrapper home-page page-load">
-	
-	<div class="theme-loader">
-		<div id="ajaxbar1">
-		  <div id="block1" class="barlittle"></div>
-		  <div id="block2" class="barlittle"></div>
-		  <div id="block3" class="barlittle"></div>
-		  <div id="block4" class="barlittle"></div>
-		  <div id="block5" class="barlittle"></div>
-		</div>
-	</div>
+
 
 	<!--Header Section Start-->
 	<header id="header" class="header">
@@ -50,8 +39,8 @@
 					<div class="col-md-4 col-sm-6">
 						<div class="top_header_phone flex-box"> 
 							<i class="fa fa-phone" aria-hidden="true"></i>
-							<span>Do you Need help? </span>
-							<span><a class="color-white" href="callto:+918910016244">+ 91 89100 16244</a></span> 
+							<span>How can we help? </span>
+							<span><a class="color-white" href="callto:+91 123456">+91 123456</a></span> 
 						</div>
 					</div>
 					<div class="col-md-8 col-sm-6">
@@ -79,7 +68,7 @@
 								<!-- Collect the nav links, forms, and other content for toggling -->
 								<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 									<ul class="free-signup navbar-right">
-										<li><div class="btn btn-primary" data-toggle="modal" data-target="#myModal">DEMO</div></li>
+										<li><div class="btn btn-primary" data-toggle="modal" data-target="#myModal">Example</div></li>
 									</ul>
 									<ul class="nav navbar-nav navbar-right">
 										<li class="dropdown"> <a href="index.php" role="button" aria-haspopup="true" aria-expanded="false">Home</a>
@@ -89,7 +78,7 @@
 										<li class="dropdown"> <a href="services.php" role="button" aria-haspopup="true" aria-expanded="false">Services</a>
 											
 										</li>
-										<li class="dropdown"> <a href="trainers.php" role="button" aria-haspopup="true" aria-expanded="false">Trainers</a>
+										<li class="dropdown"> <a href="trainers.php" role="button" aria-haspopup="true" aria-expanded="false">Experts</a>
 											
 										</li>
 										
