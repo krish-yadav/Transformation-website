@@ -166,13 +166,7 @@
 									<div class="class_item_hover padding15 text-center background-rgba-1">
 										<h4 class="thumb-title text-center"><a class="color-default" href="#">Kick Boxing</a></h4>
 										
-										<div class="class-msg">
-											<div class="text-area color-black">
-												<p>Kickboxing involves lots of rapid movement and can easily increase your heart rate to a similar pace as running. Kickboxing can increase muscle strength as well as cardiovascular health.</p>
-											</div>
-											 <a href="contact.php" class="btn btn-secondary"><span>Meet Us</span><i class="fa fa-angle-right" aria-hidden="true"></i></a>
-							
-										</div>
+										
 									</div>
 								</div>
 							</div>
@@ -439,14 +433,6 @@
 							</div>
 						</li>
 						
-						<li>
-							<div class="form-group">
-								<input class="form-control" type="text" name="email" value="" placeholder="Email" />
-							</div>
-						</li>
-						<li>
-							<div class="form-group">
-								<input class="form-control" type="text" name="phone" value="" placeholder="Phone Number" />
 							</div>
 						</li>
 						<li>
