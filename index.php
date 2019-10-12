@@ -151,9 +151,7 @@
 				<div class="carousel-caption">
 					<div class="container">
 						<div class="slider_caption text-left">
-							<div class="slider_info">
-								<h1 class="thumb-title padding-bottom-30 full-row">Respect your <span style="color: white;">body</span>. It’s the <span style="color: white;">only one</span> you get.</h1>
-								
+							<div class="slider_caption text-left">
 							</div>
 							<div class="btn_double"><a href="contact.php" class="btn btn-secondary"><span>Join Now</span><i class="fa fa-angle-right" aria-hidden="true"></i></a> </div>
 						</div>
