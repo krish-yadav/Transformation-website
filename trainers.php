@@ -135,9 +135,6 @@
 <section id="trainers2" class="full-row bg-gray2">
 	<div class="container">
 		<div class="row">
-			
-		</div>
-		<div class="row">
 			<div class="col-md-12">
 				<div class="our_trainer-2">
 					<div class="trainer_item text-center overflow-hidden full-row margin-bottom-30">
@@ -159,7 +156,7 @@
 							<div class="text-area color-white"><p>*Certified ISSA<br>*Worked at Karma fitness studio, Golds Gym, Amplified fitness center<br>*10+ Years Experience</p></div>
 							
 						</div>
-						<div class="trainer_img"><img src="images/trainer/trainer1.jpg" alt="" /></div>
+						<div class="trainer_img"><img src="images/trainer/trainer1.jpg" alt="image" /></div>
 					</div>
 					<div class="trainer_item text-center overflow-hidden full-row margin-bottom-30">
 						<div class="trainer_item_hover bg-white text-center color-dark">
@@ -169,7 +166,7 @@
 							*Certified Personal Training Certification from Apex Fitness Group.</p></div>
 						
 						</div>
-						<div class="trainer_img"><img src="images/trainer/trainer3.jpg" alt="" /></div>
+						<div class="trainer_img"><img src="images/trainer/trainer3.jpg" alt="image" /></div>
 					</div>
 					<div class="trainer_item text-center overflow-hidden full-row margin-bottom-30">
 						<div class="trainer_item_hover bg-white text-center color-dark">
@@ -196,6 +193,11 @@
 			</div>
 		</div>
 	</div>
+	<div class="row">
+		<div class="text-area color-white">
+			<p>next</p>
+		</div>
+		</div>
 </section>
 <!--All Trainers Section End--> 
 
