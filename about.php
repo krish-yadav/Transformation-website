@@ -178,7 +178,6 @@ We believe in excellence in action therefore, we try to implement this belief in
 			<div class="col-md-12">
 				<div class="section_title title_center box_title">
 					<h2 class="title">OUR TRAINERS</h2>
-					
 				</div>
 			</div>
 		</div>
@@ -195,7 +194,7 @@ We believe in excellence in action therefore, we try to implement this belief in
 </p></div>
 							
 						</div>
-						<div class="trainer_img"><img src="images/trainer/trainer2.jpg" alt="" /></div>
+						<div class="trainer_img"><img src="images/trainer/trainer2.jpg" alt="image" /></div>
 					</div>
 					<div class="trainer_item text-center overflow-hidden full-row margin-bottom-30">
 						<div class="trainer_item_hover bg-white text-center color-dark">
@@ -204,11 +203,13 @@ We believe in excellence in action therefore, we try to implement this belief in
 							<div class="text-area color-white"><p>*Certified ISSA<br>*Worked at Karma fitness studio, Golds Gym, Amplified fitness center<br>*10+ Years Experience</p></div>
 							
 						</div>
-						<div class="trainer_img"><img src="images/trainer/trainer1.jpg" alt="" /></div>
+						<div class="trainer_img"><img src="images/trainer/trainer1.jpg" alt="image" /></div>
 					</div>
 					<div class="trainer_item text-center overflow-hidden full-row margin-bottom-30">
 						<div class="trainer_item_hover bg-white text-center color-dark">
-							<div class="trainer_name"><a class="color-default" href="#">Atif</a></div>
+							<div class="trainer_name">
+								<a class="color-default" href="#">Atif</a>
+							</div>
 							<div class="trainer_title">Personal Trainer</div>
 							<div class="text-area color-white"><p>*Yellow Belt in Black Belt Karate Academy<br>
 							*Certified Personal Training Certification from Apex Fitness Group.</p></div>
@@ -216,6 +217,8 @@ We believe in excellence in action therefore, we try to implement this belief in
 						</div>
 						<div class="trainer_img"><img src="images/trainer/trainer3.jpg" alt="" /></div>
 					</div>
+					<div class="col-md-12">
+						<a class="color-default" href="#">peace</a>
 					
 					<div class="trainer_item text-center overflow-hidden full-row margin-bottom-30">
 						<div class="trainer_item_hover bg-white text-center color-dark">
@@ -226,7 +229,7 @@ We believe in excellence in action therefore, we try to implement this belief in
 *Former trainer of way to fitness, Ampified fitness center.</p></div>
 						
 						</div>
-						<div class="trainer_img"><img src="images/trainer/trainer4.jpg" alt="" /></div>
+						<div class="trainer_img"><img src="images/trainer/trainer4.jpg" alt="image" /></div>
 					</div>
 					<div class="trainer_item text-center overflow-hidden full-row margin-bottom-30">
 						<div class="trainer_item_hover bg-white text-center color-dark">
