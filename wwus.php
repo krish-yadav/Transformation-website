@@ -181,18 +181,24 @@
 if(isset($_POST['submit'])){
 
 	$name = $_POST['name'];
-	
 	$email = $_POST['email'];
 	$experience = $_POST['experience'];
 	$certi = $_POST['certi'];
 	$additional = $_POST['additional'];
 	
 
-	$db = mysqli_connect("localhost", "root", "", "transformation")
-	or die('error connecting');
+	$db = mysqli_connect("localhost", "root", "", "transformation");
+	if(!$db)
+	{
+		die("connection error: " . mysqli_connect_error());
+	}
+	
 
-	mysqli_query($db, "INSERT INTO contacts VALUES (0, '$name', '$email', '$experience', '$certi', '$additional')")
-	or die('error quering');
+	$result = mysqli_query($db, "INSERT INTO contacts VALUES (0, '$name', '$email', '$experience', '$certi', '$additional')");
+	if(!$result)
+	{
+		die("error: " . mysqli_error());
+	}
 
 	echo'<script language="javascript"> alert("Your response has been submitted.")</script>';
 	
